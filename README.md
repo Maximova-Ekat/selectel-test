@@ -1,5 +1,7 @@
 # selectel-test
-Тестовое задание по направлению «Технический писатель» 2026. Selectel Career Wave
+
+Тестовое задание по направлению «Технический писатель» 2026. Selectel Career Wave.
+
 Описание заданий скрыто до получения разрешения на распространение материалов тестовых заданий.
 * [Задание 1](https://github.com/Maximova-Ekat/selectel-test/blob/main/solution/task1.md)
 * [Задание 2](https://github.com/Maximova-Ekat/selectel-test/blob/main/solution/task2.md)
